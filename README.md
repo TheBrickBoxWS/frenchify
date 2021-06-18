@@ -4,7 +4,7 @@ A package to apply french punctuation rules (e.g. thin spaces before question ma
 
 ## Usage
 
-```ts
+```ts .
 import { frenchify } from 'frenchify';
 
 const annoyingTourist = `Excusez-moi : pourriez-vous m' indiquer où se trouve la "Tour Eiffel" ?`;
